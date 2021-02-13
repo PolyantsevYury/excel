@@ -1,3 +1,4 @@
 import './module'
+import './scss/index.scss'
 
-console.log('ready set go')
+console.log('ready!')
